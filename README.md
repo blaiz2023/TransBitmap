@@ -22,7 +22,7 @@ Edit your bitmap in a graphics program.  From Trans Bitmap, click the "Open and 
 * Smart Source Code (Borland Delphi 3 and Lazarus 2+)
 
 # Download
-Download <a href="src/transbitmap.exe">harmony.exe</a> or from the "<a href="bin/">bin</a>" or "<a href="src/">src</a>" folders above - for Microsoft Windows, and Linux/MacOS via Wine.
+Download <a href="src/transbitmap.exe">Trans Bitmap.exe</a> or from the "<a href="bin/">bin</a>" or "<a href="src/">src</a>" folders above - for Microsoft Windows, and Linux/MacOS via Wine.
 
 # Images
 <img src="images/transbitmap-screenshot2.jpg">
